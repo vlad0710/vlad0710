@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlad0710
 - 👀 I’m interested in ... front end development
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... JavaScript, OOP, ReactJs
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
